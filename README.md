@@ -11,7 +11,7 @@
 
     </br>
 
-    <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Davilash&show_icons=true" alt="avilash" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Davilash&show_icons=true" alt="avilash" />
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davilash&langs_count=8)
 
