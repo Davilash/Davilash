@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, Avilash here! 👋
 
-<!--
-**Davilash/Davilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate about tackling challenges and building innovative solutions across mobile, web, and cross-platform domains.**
 
-Here are some ideas to get you started:
+### 🔭 Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  **Android Development** (Kotlin, Java)
+*  **Web Development** (ReactJS, NextJS)
+*  **Cross-Platform Development** (Flutter, React Native)
+
+
+    </br>
+
+    <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Davilash&show_icons=true" alt="avilash" />
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davilash&langs_count=8)
+
